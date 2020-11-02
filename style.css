@@ -1,0 +1,35 @@
+body{
+    background-color: #6489A0;
+}
+
+.mapdiv g{
+    fill: #4b4d44b9;
+}
+.mapdiv a #gl path:hover{
+    fill:#b0c5bf;
+}
+
+.mapdiv a #br path:hover{
+    fill:#1b853e;
+}
+
+.mapdiv a #in path:hover{
+    fill:#919c3f;
+}
+
+.mapdiv a #ke path:hover{
+    fill:#916e05;
+}
+
+.mapdiv a #ph path:hover{
+    fill:#046892;
+}
+
+.mapdiv a #au path:hover{
+    fill:#a73f52;
+}
+
+.mapdiv a #nz path:hover{
+    fill:#67ac4a;
+}
+
